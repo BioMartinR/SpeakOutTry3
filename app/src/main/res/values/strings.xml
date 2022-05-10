@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SpeakOutTry3</string>
+
+    <string name="sus_button_test">sus_button_test</string>
+    <string name="apple">apple</string>
+    <string name="toilet">toilet</string>
+    <string name="orange">orange</string>
+    <string name="letter_I">letter_I</string>
+    <string name="want_button">want_button</string>
+</resources>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageButton
+        android:id="@+id/apple"
+        android:layout_width="509dp"
+        android:layout_height="539dp"
+        android:adjustViewBounds="true"
+        android:scaleType="fitXY"
+        app:srcCompat="@drawable/apples_clipart_cartoon_5"
+        tools:ignore="ContentDescription,MissingConstraints,SpeakableTextPresentCheck"
+        tools:layout_editor_absoluteX="789dp"
+        tools:layout_editor_absoluteY="775dp" />
+
+    <ImageButton
+        android:id="@+id/toilet"
+        android:layout_width="532dp"
+        android:layout_height="573dp"
+        android:adjustViewBounds="true"
+        android:scaleType="fitXY"
+        app:srcCompat="@drawable/toilet"
+        tools:ignore="ContentDescription,MissingConstraints,SpeakableTextPresentCheck"
+        tools:layout_editor_absoluteX="766dp"
+        tools:layout_editor_absoluteY="1516dp" />
+
+    <ImageButton
+        android:id="@+id/orange"
+        android:layout_width="537dp"
+        android:layout_height="552dp"
+        android:adjustViewBounds="true"
+        android:scaleType="fitXY"
+        app:srcCompat="@drawable/orange"
+        tools:ignore="ContentDescription,MissingConstraints,SpeakableTextPresentCheck"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="762dp" />
+
+    <ImageButton
+        android:id="@+id/letter_I"
+        android:layout_width="556dp"
+        android:layout_height="556dp"
+        android:adjustViewBounds="true"
+        android:scaleType="fitXY"
+        app:srcCompat="@drawable/letter_i"
+        tools:ignore="ContentDescription,MissingConstraints,SpeakableTextPresentCheck"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="-4dp" />
+
+    <ImageButton
+        android:id="@+id/want_button"
+        android:layout_width="525dp"
+        android:layout_height="552dp"
+        android:adjustViewBounds="true"
+        android:scaleType="fitXY"
+        app:srcCompat="@drawable/want_word_image"
+        tools:ignore="ContentDescription,MissingConstraints,SpeakableTextPresentCheck"
+        tools:layout_editor_absoluteX="773dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <ImageButton
+        android:id="@+id/sus_button_test"
+        android:layout_width="556dp"
+        android:layout_height="569dp"
+        android:adjustViewBounds="true"
+        android:scaleType="fitXY"
+        app:srcCompat="@drawable/amongus"
+        tools:ignore="ContentDescription,MissingConstraints,SpeakableTextPresentCheck"
+        tools:layout_editor_absoluteX="-1dp"
+        tools:layout_editor_absoluteY="1520dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
